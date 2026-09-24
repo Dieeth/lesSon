@@ -1,2 +1,5 @@
-﻿  testBRR.cpp
-  testBRR.vcxproj -> C:\Users\user\source\repos\testBRR\x64\Debug\testBRR.exe
+﻿  Point.cpp
+  testBRR.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\user\source\repos\Dieeth\lesSon\testBRR\x64\Debug\testBRR.exe при последней инкрементной компоновке; выполняется полная компоновка
+  testBRR.vcxproj -> C:\Users\user\source\repos\Dieeth\lesSon\testBRR\x64\Debug\testBRR.exe
