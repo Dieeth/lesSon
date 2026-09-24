@@ -6,6 +6,8 @@ private:
 public:
 	int getX();
 	int getY();
+	void setX(int _x);
+	void setY(int _y);
 	int multiply();
 
 	Point(int _x, int _y) {
